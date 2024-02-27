@@ -1,0 +1,33 @@
+{
+  "name": "health-mon-patient",
+  "private": true,
+  "version": "1.0.5",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 3000",
+    "build": "vite build"
+  },
+  "author": {
+    "name": "Syed Azeem Javed",
+    "email": "syedazeemjaved@gmail.com",
+    "url": "https://github.com/SyedAzeemJaved"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.17",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.14",
+    "file-loader": "^6.2.0",
+    "postcss": "^8.4.27",
+    "prettier": "^3.2.2",
+    "prettier-plugin-tailwindcss": "^0.4.1",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.7",
+    "webpack": "^5.88.2"
+  }
+}
