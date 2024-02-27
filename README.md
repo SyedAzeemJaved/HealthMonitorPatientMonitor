@@ -1,6 +1,6 @@
-# Health Monitor - Admin Dashboard based on React using Tailwind and TailAdmin Template
+# Health Monitor - Patient Dashboard based on React using Tailwind and TailAdmin Template
 
-This is the Git repository for Health Monitor Admin Dashboard built with **React, TypeScript and Tailwind CSS**, which let's you manage all users (caretakers, doctors and patients) on the platform.
+This is the Git repository for Health Monitor Patient Dashboard built with **React, TypeScript and Tailwind CSS**, which let's view patient vitals in real-time.
 
 ## Installation
 
